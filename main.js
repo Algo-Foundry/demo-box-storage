@@ -414,19 +414,19 @@ const getAppBoxNames = async (appId) => {
   // await contractHasAlgos(appId, boxName, boxSize);
   // await boxPut(appId, boxName, boxData);
 
-  // // delete a box
+  // delete a box
   // await boxDelete(appId, "empty_box");
 
-  // // replace data in box
+  // replace data in box
   // const boxData = "B".repeat(10);
   // await boxReplaceData(appId, "box_with_data", 0, boxData);
 
   // Extract data from box in contract
   // await boxExtract(appId, "box_with_data", 4, 5);
 
-  // // read box data in contract
+  // read box data in contract
   // await boxRead(appId, "box_with_data");
 
-  // // read box length in contract
+  // read box length in contract
   // await boxLength(appId, "box_with_data");
 })();
