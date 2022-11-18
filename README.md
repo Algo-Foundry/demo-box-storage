@@ -30,3 +30,6 @@ The frontend `main.js` deploys the smart contract and contains functions to perf
 1. pyTEAL v0.20.1
 2. algosdk v1.23.2
 3. Purestake account (which connects to an Algorand Node on BetaNet)
+
+## References
+(https://developer.algorand.org/articles/smart-contract-storage-boxes/)[https://developer.algorand.org/articles/smart-contract-storage-boxes/]
