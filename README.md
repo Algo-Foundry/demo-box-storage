@@ -40,5 +40,5 @@ node 06_delete_box.js
 2. algosdk >= v1.23.2
 
 ## References
-(https://developer.algorand.org/articles/smart-contract-storage-boxes/)[https://developer.algorand.org/articles/smart-contract-storage-boxes/]
-(https://developer.algorand.org/docs/get-details/dapps/smart-contracts/apps/#box-details)[https://developer.algorand.org/docs/get-details/dapps/smart-contracts/apps/#box-details]
+[https://developer.algorand.org/articles/smart-contract-storage-boxes/](https://developer.algorand.org/articles/smart-contract-storage-boxes/)
+[https://developer.algorand.org/docs/get-details/dapps/smart-contracts/apps/#box-details](https://developer.algorand.org/docs/get-details/dapps/smart-contracts/apps/#box-details)
