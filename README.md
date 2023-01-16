@@ -24,12 +24,21 @@ Gets the size of the box
 ### box_delete
 Deletes the box
 
-The frontend `main.js` deploys the smart contract and contains functions to perform the respective app calls.
+Run the functions to submit the necessary app call transactions related to box storage,
+
+```
+node 01_create_empty_box.js
+node 02_create_box_with_data.js
+node 03_read_box_data.js 
+node 04_replace_box_data.js
+node 05_extract_box_data.js
+node 06_delete_box.js
+```
 
 ## Requirements
 1. pyTEAL v0.20.1
-2. algosdk v1.23.2
-3. Purestake account (which connects to an Algorand Node on BetaNet)
+2. algosdk >= v1.23.2
 
 ## References
 (https://developer.algorand.org/articles/smart-contract-storage-boxes/)[https://developer.algorand.org/articles/smart-contract-storage-boxes/]
+(https://developer.algorand.org/docs/get-details/dapps/smart-contracts/apps/#box-details)[https://developer.algorand.org/docs/get-details/dapps/smart-contracts/apps/#box-details]

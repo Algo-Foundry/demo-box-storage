@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "algosdk": "^1.23.2",
+    "algosdk": "^2.0.0",
     "dotenv": "^16.0.3"
   }
 }

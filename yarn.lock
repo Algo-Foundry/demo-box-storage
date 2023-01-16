@@ -7,10 +7,10 @@ algo-msgpack-with-bigint@^2.1.1:
   resolved "https://registry.yarnpkg.com/algo-msgpack-with-bigint/-/algo-msgpack-with-bigint-2.1.1.tgz#38bb717220525b3ff42232eefdcd9efb9ad405d6"
   integrity sha512-F1tGh056XczEaEAqu7s+hlZUDWwOBT70Eq0lfMpBP2YguSQVyxRbprLq5rELXKQOyOaixTWYhMeMQMzP0U5FoQ==
 
-algosdk@^1.23.2:
-  version "1.23.2"
-  resolved "https://registry.yarnpkg.com/algosdk/-/algosdk-1.23.2.tgz#1fda2b537d832687da64bf708f10a69086f02b43"
-  integrity sha512-ZDq71Kq+e3bvHxnTi/hWqom2/YHeTrbkxenOOCvPidRQuwkaOQAs92c4fqImdn7+Y+MfLhdtQspBLFR1hQTE4A==
+algosdk@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/algosdk/-/algosdk-2.0.0.tgz#d6816c50f36d3454b8c69eaf260149237e500bcb"
+  integrity sha512-OaswZBd7M6lm+PUevszRn5Ujq0iXHZBdCz+Yb4yIdwwcSN7cbhsba1DllXvkuyGCEAFIbSJLoOW1+1/at0oJfw==
   dependencies:
     algo-msgpack-with-bigint "^2.1.1"
     buffer "^6.0.2"
