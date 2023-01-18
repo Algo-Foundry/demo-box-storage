@@ -24,7 +24,10 @@ Gets the size of the box
 ### box_delete
 Deletes the box
 
+## Run the demo
 Run the functions to submit the necessary app call transactions related to box storage,
+
+To reuse the deployed app, save the app ID in the `.env` folder after running the first script. Run `source .env` first before running the rest of the scripts.
 
 ```
 node 01_create_empty_box.js
