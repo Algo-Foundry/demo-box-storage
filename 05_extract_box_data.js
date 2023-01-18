@@ -9,5 +9,5 @@ require("dotenv").config();
   const boxName = "box_with_data";
 
   // Extract data from box in contract and update global state
-  await boxfn.boxExtract(appId, boxName, 4, 5);
+  await boxfn.boxExtract(appId, boxName, 0, 10);
 })();

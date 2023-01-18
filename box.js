@@ -29,7 +29,7 @@ const boxPut = async (appId, boxName, data) => {
   // format box data
   const boxData = formatAppData(data);
 
-  // put data in box
+  // put data in box - max 16 app args, 2KB in total size limit
   const appArgs = [
     new Uint8Array(Buffer.from("box_put")),
     new Uint8Array(Buffer.from(boxName)), // 1-64 bytes, unique for the app

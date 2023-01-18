@@ -33,6 +33,7 @@ node 03_read_box_data.js
 node 04_replace_box_data.js
 node 05_extract_box_data.js
 node 06_delete_box.js
+node 07_box_with_long_data.js
 ```
 
 ## Requirements
